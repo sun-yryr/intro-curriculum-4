@@ -112,3 +112,6 @@ temp/
 
 # tsc output directory
 out/
+
+# bundle file
+bundle.js
